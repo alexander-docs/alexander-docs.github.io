@@ -10,6 +10,6 @@ Welcome to the this audio wiki. At present, its focus is mainly around musical p
 
 If you are interested in getting started with OBS Studio, please read through [this guide](#!pages/obs/start.md) on how to comfortably do so. Advanced techniques will soon be written about for those already familiar with the software.
 
-## Contribute to Krue Wiki
+## Contribute to Audio Wiki
 
 If you'd like you help out with this project, check out the [Github page](https://github.com/alexander-docs/alexander-docs.gitub.io).

@@ -71,7 +71,7 @@
 [OBS Studio]()
 
   * # Guides
-  * [Getting Started (Coming Soon)](pages/obs/start.md)
+  * [Getting Started (Coming Soon)](#)
   * [Advanced Techniques (Coming Soon)](#)
   - - - -
   * # OBS Project

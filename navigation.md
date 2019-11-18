@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Audio Wiki
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](yeti)
 
 
 <!--
@@ -19,8 +19,12 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
+<!-- A navigation example: -----------------------------------------------------
+
 [About](pages/about.md)
 [Download](pages/download.md)
+
+---------------------------------------------------------------------------- -->
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -63,3 +67,30 @@
 <!--
 [gimmick:themechooser](Choose theme)
 -->
+
+[OBS Studio]()
+
+  * # Guides
+  * [Getting Started (Coming Soon)](pages/obs/start.md)
+  * [Advanced Techniques (Coming Soon)](#)
+  - - - -
+  * # OBS Project
+  * [Website](https://obsproject.com/)
+  * [Forums](https://obsproject.com/forum/)
+  - - - -
+  * # Documentation
+  * [Reference Manual](https://obsproject.com/forum/resources/open-broadcaster-software-studio-multiplatform-help-guide-pdf.365/)
+  - - - -
+  * # Tools
+  * [Speed Test](http://www.speedtest.net/)
+
+[Audio]()
+
+  * # Software
+  * [List of Digital Audio Workstations](pages/audio/daw.md)
+  * [Freely Available Plugins](pages/audio/plugins.md)
+  - - - -
+  * # Virtual Audio Routing
+  * [Windows (Coming Soon)](#)
+  * [macOS (Coming Soon)](#)
+  * [GNU/Linux (Coming Soon)](#)

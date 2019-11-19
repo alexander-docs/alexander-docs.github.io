@@ -32,7 +32,7 @@ TLs-3127-LEA|http://hem.bredband.net/tbtaudio/archive/newtbtvstplugins.htm |Win3
 Name|Website|Platforms
 ----|----|----
 Broadcast|https://web.archive.org/web/20130816035728/http://www.jeroenbreebaart.com/audio_vst_jb.htm (archive)|Win32
-C3 Multi Band Compressor|http://www.geocities.jp/webmaster_of_sss/vst/#c3 |Win32, macOS
+C3 Multi Band Compressor|https://web.archive.org/web/20190331140447/http://www.geocities.jp/webmaster_of_sss/vst/#c3 (archive)|Win32, macOS
 Lightweight Multiband Compressor|https://web.archive.org/web/20140702181911/http://www.savioursofsoul.de/Christian/vst-plugins/effect-plugins/dynamics (archive)|Win32
 MjMultibandCompressor|http://magnus.smartelectronix.com/#MjMultibandCompressor |Win32
 Multiband|http://mda.smartelectronix.com/effects.htm |Win32, macOS
@@ -47,7 +47,7 @@ DualComp|https://web.archive.org/web/20150125132252/http://sonictransfer.com/fre
 MCompressor|http://www.meldaproduction.com/MCompressor |Win32, Win64, macOS
 Molot|https://vladgsound.wordpress.com/plugins/molot/ |Win32, Win64, macOS
 ReaComp|http://www.reaper.fm/reaplugs/ |Win32, Win64
-Side Chain Compressor|http://www.geocities.jp/webmaster_of_sss/vst/index.html#sidech |Win32
+Side Chain Compressor|https://web.archive.org/web/20190331140447/http://www.geocities.jp/webmaster_of_sss/vst/#sidech (archive)|Win32
 Sidechain Compressor |https://web.archive.org/web/20140702181911/http://www.savioursofsoul.de/Christian/vst-plugins/effect-plugins/dynamics (archive)|Win32
 
 ## Delay/Echo
@@ -56,7 +56,7 @@ Name|Website|Platforms
 ----|----|----
 Bionic Delay|http://www.interruptor.ch/vst_donationware.shtml |Win32
 ET-301|http://www.vstplanet.com/News/2010/ET-301.htm (unofficial)|Win32
-FreeDelay|http://www.kiesel.is/products/freedelay/ |Win32
+FreeDelay|https://web.archive.org/web/20180312040924/https://www.kiesel.is/products/freedelay/ (archive)|Win32
 NastyDLA mkII|https://varietyofsound.wordpress.com/2012/05/11/nastydla-mkii-version-released/ |Win32
 ReaDelay|http://www.reaper.fm/reaplugs/ |Win32, Win64
 Retro Delay|http://www.e-phonic.com/plugins/retrodelay.php |Win32
@@ -71,7 +71,7 @@ Classic EQ|http://www.acoustica.com/plugins/vst-directx.htm |Win32
 CS12M|http://www.terrywest.nl/equalizers.html |Win32
 EQ22|http://www.roughdraftaudio.com/have.html |Win32
 Free Ranger|https://www.plugin-alliance.com/en/products/spl_free_ranger.html |Win32, Win64, macOS
-Marvel GEQ|http://www.voxengo.com/product/marvelgeq/ |Win32, Win4, macOS
+Marvel GEQ|http://www.voxengo.com/product/marvelgeq/ |Win32, Win64, macOS
 
 ## EQ (Linear-Phase)
 
@@ -79,8 +79,8 @@ Name|Website|Platforms
 ----|----|----
 Filtrate LE|http://www.liquidsonics.com/software_filtrate_le.htm |Win32
 Glacier|http://rekkerd.org/sweetboy-vst/ (unofficial)|Win32
-LinearPhaseGraphicEQ 2|http://www.geocities.jp/webmaster_of_sss/vst/#lpgeq2 |Win32, macOS
-Marvel GEQ|http://www.voxengo.com/product/marvelgeq/ |Win32, Win4, macOS
+LinearPhaseGraphicEQ 2|https://web.archive.org/web/20190331140447/http://www.geocities.jp/webmaster_of_sss/vst/#lpgeq2 (archive)|Win32, macOS
+Marvel GEQ|http://www.voxengo.com/product/marvelgeq/ |Win32, Win64, macOS
 ReaFIR|http://www.reaper.fm/reaplugs/ |Win32, Win64
 SplineEQ (Free)|http://photosounder.com/splineeq/ |Win32, Win64, macOS
 
@@ -121,7 +121,7 @@ Name|Website|Platforms
 ----|----|----
 Ambience|http://magnus.smartelectronix.com/#Ambience |Win32, macOS
 Classic Reverb|http://www.acoustica.com/plugins/vst-directx.htm |Win32
-DX Reverb Light|http://www.anwida.com/product.asp?pid=7 |Win32, macOS
+DX Reverb Light|https://web.archive.org/web/20190515015230/https://www.anwida.com/product.asp?pid=7 (archive)|Win32, macOS
 epicVerb|https://varietyofsound.wordpress.com/2010/01/22/epicverb-1-5-major-update-available/ |Win32
 KR-Reverb FS|http://www.kresearch.com/index.php?p=KRFree |Win32, Win64, GNU/Linux
 Mo' Verb|http://rhythm-lab.com/plugins/mo_verb |Win32
@@ -129,12 +129,12 @@ MuVerb|http://www.mutools.com/muverb-product.html |Win32
 MVerb|http://rekkerd.org/martin-eastwood-audio-free-plugins/ (unofficial)|Win32, Win64, macOS, GNU/Linux
 OldSkoolVerb|http://www.voxengo.com/product/oldskoolverb/ |Win32, Win64, macOS
 Poor Plate|https://web.archive.org/web/20160302035939/http://www.nullmedium.de/dev/audioplugins (archive)|Win32, Win64, macOS
-Reverbering|http://nusofting.liqihsynth.com/freeplugins.html |Win32
-Spring Reverb|http://www.hotto.de/vstplugins/springreverb.html |Win32, macOS
+Reverbering|https://web.archive.org/web/20171220050527/http://nusofting.liqihsynth.com/freeplugins.html (archive)|Win32
+Spring Reverb|https://web.archive.org/web/20190430171730/http://www.hotto.de/vstplugins/springreverb.html (archive)|Win32, macOS
 TAL-Reverb-2|https://tal-software.com/products/tal-reverb |Win32, Win64, macOS, GNU/Linux
 TAL-Reverb-3|https://tal-software.com/products/tal-reverb |Win32, Win64, macOS, GNU/Linux
-Tila2|http://www.signaldust.com/p-tila2.html |Win32, Win64
-TimeVerb|http://www.genuinesoundware.com/?a=showproduct&b=30 |Win32, macOS
+Tila2|https://web.archive.org/web/20180906184259/http://www.signaldust.com/p-tila2.html (archive) |Win32, Win64
+TimeVerb|https://web.archive.org/web/20170708230937/http://www.genuinesoundware.com/?a=showproduct&b=30 (archive)|Win32, macOS
 
 ## Reverb (Convolution)
 

@@ -68,6 +68,27 @@
 [gimmick:themechooser](Choose theme)
 -->
 
+[Audio]()
+
+  * # Software
+  * [List of Digital Audio Workstations](pages/audio/daw.md)
+  * [Freely Available Plugins](pages/audio/plugins.md)
+  - - - -
+  * # Virtual Audio Routing
+  * [Windows (Coming Soon)](#)
+  * [macOS (Coming Soon)](#)
+  * [GNU/Linux (Coming Soon)](#)
+
+[Discord]()
+
+  * # Guides
+  * [Optimizing Audio for Musical Performance](pages/discord/optimize.md)
+  - - - -
+  * # Discord App
+  * [Website](https://discordapp.com/)
+  * [Help & Support](https://support.discordapp.com/)
+  * [Status Page](https://status.discordapp.com/)
+
 [OBS Studio]()
 
   * # Guides
@@ -83,14 +104,3 @@
   - - - -
   * # Tools
   * [Speed Test](http://www.speedtest.net/)
-
-[Audio]()
-
-  * # Software
-  * [List of Digital Audio Workstations](pages/audio/daw.md)
-  * [Freely Available Plugins](pages/audio/plugins.md)
-  - - - -
-  * # Virtual Audio Routing
-  * [Windows (Coming Soon)](#)
-  * [macOS (Coming Soon)](#)
-  * [GNU/Linux (Coming Soon)](#)

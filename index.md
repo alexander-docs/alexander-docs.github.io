@@ -12,4 +12,4 @@ If you are interested in getting started with OBS Studio, please read through [t
 
 ## Contribute to Audio Wiki
 
-If you'd like you help out with this project, check out the [Github page](https://github.com/alexander-docs/alexander-docs.gitub.io).
+If you'd like you help out with this project, check out the [Github page](https://github.com/alexander-docs/alexander-docs.github.io).

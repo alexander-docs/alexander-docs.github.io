@@ -5,7 +5,7 @@
 
 Name|Platforms|Website|Notes
 ----|----|----|----
-Cakewalk by BandLab|Win64|https://www.bandlab.com/products/cakewalk |Some bloar, but this is the most feature filled out of these free offerings.
+Cakewalk by BandLab|Win64|https://www.bandlab.com/products/cakewalk |Some bloat, but this is the most feature filled out of these free offerings.
 Tracktion T7|Win32, macOS, GNU/Linux|https://www.tracktion.com/products/t7-daw |Slightly unconventional UI, but fairly robust in offerings.
 Pro Tools First|Win64, macOS|https://www.avid.com/pro-tools-first|A fairly stripped down version of Pro Tools.
 Podium Free|Win32, Win64|https://zynewave.com/podium-free/ |Lacks multi-core processing.
